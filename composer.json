@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GeekRoom\\Roles\\": "src/GeekRoom/Roles"
+            "GeekRoom\\Roles\\": "src/GeekRoom/Roles/"
         }
     },
     "minimum-stability": "dev"
