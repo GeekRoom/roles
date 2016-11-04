@@ -14,8 +14,9 @@
         "illuminate/support": "~5.0"
     },
     "autoload": {
-        "psr-0": {
-            "GeekRoom\\Roles": "src/"
+        "psr-4": {
+            "GeekRoom\\Roles\\": "src/GeekRoom/Roles"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
