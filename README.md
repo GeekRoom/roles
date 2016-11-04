@@ -26,15 +26,9 @@ Package for handling roles and permissions in Laravel 5 (5.3 and also 5.0).
 
 ### Composer
 
-In order to install package, just add
-
-    "geekroom/roles": "1.0.x"
-
-to your composer.json. Then run `composer install` or `composer update`.
-
-or you can run the `composer require` command from your terminal:
+In order to install package, just run the `composer require` command from your terminal:
     
-    composer require geekroom/roles:1.0.x
+    composer require geekroom/roles
     
 
 ### Service Provider
