@@ -1,14 +1,15 @@
 {
-    "name": "GeekRoom/roles",
-    "description": "Package for handling roles and permissions in Laravel 5.",
+    "name": "geekroom/roles",
+    "description": "Package for handling roles and permissions in Laravel.",
     "keywords": ["laravel", "roles", "permissions", "acl", "illuminate"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Tofik Haziyev",
+            "name": "ToxaGeek",
             "email": "toxageek@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "~5.0"
