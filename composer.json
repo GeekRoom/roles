@@ -9,9 +9,8 @@
             "email": "toxageek@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=5.5.9",
+        "php": "^5.5.9 || ^7.0",
         "illuminate/support": "~5.0"
     },
     "autoload": {
