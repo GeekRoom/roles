@@ -2,6 +2,7 @@
 
 namespace GeekRoom\Roles;
 
+use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
 class RolesServiceProvider extends ServiceProvider
